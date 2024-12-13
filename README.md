@@ -1,0 +1,1 @@
+La encuesta esta Comprimida pues si son varios archivos, solo la descomprime, descarga la BD (EncuestaBD), crea la BD y el contenido de la misma y cambía el Server que usará. Y listo! debería funcionar.
